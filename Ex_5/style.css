@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #011128;
+}
+
+.texto__titulo {
+    color: #C646D1;
+}
+
+.texto__paragrafo {
+    color: #C646D1;
+}
+
+.texto__destaque {
+    color: #3B28CC;
+}
+
+.apresentacao {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
