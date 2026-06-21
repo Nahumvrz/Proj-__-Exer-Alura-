@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -14,3 +16,23 @@ body {
     color: #FFDA62;
 }
 
+.apresentacao {
+    margin: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo {
+    width: 400px;
+}
+
+.apresentacao__titulo {
+    font-size: 80px;
+    font-family: "Anton", sans-serif;
+}
+
+.apresentacao__paragrafo {
+    font-size: 40px;
+    font-family: "Libre Baskerville", serif;
+}
