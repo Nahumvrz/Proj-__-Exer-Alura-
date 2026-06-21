@@ -7,13 +7,10 @@ body {
     height: 100vh;
     box-sizing: border-box;
     background-color: #672200;
-}
-
-.titulo__blog {
     color: #ffffff;
 }
 
 .texto__destaque {
-    color: #ffffff;
+    color: #FFDA62;
 }
 
