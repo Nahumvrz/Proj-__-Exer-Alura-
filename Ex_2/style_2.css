@@ -36,3 +36,21 @@ body {
     font-size: 40px;
     font-family: "Libre Baskerville", serif;
 }
+
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+
+.apresentacao__links__link {
+    background-color: #FFDA62;
+    width: 150px;
+    padding: 21.5px 0px;
+    border-radius: 16px;
+    font-size: 24px;
+    color: #672200;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Libre Baskerville", serif;
+}
