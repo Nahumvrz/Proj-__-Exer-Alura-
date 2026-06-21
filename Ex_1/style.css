@@ -33,6 +33,9 @@ body {
 
 .apresentacao__conteudo {
     width: 593px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
 }
 
 .apresentacao__links {
